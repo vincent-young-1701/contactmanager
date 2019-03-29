@@ -23,7 +23,6 @@ class App extends Component {
                 <Route exact path="/contact/add" component={AddContact} />
                 <Route exact path="/contact/edit/:id" component={EditContact} />
                 <Route exact path="/about/:id" component={About} />
-                <Route exact path="/test" component={Test} />
                 <Route component={NotFound} />
               </Switch>
             </main>
