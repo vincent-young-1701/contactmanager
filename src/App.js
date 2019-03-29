@@ -9,7 +9,6 @@ import AddContact from './components/contacts/AddContact';
 import EditContact from './components/contacts/EditContact';
 import About from './components/pages/About';
 import NotFound from './components/pages/NotFound';
-import Test from './components/test/test';
 
 class App extends Component {
   render() {
